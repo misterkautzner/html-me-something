@@ -1,0 +1,48 @@
+h1 {
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+* {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: rgb(255, 238, 231);
+}
+
+img, li, h4 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.chapters {
+    margin-bottom: 0em;
+}
+
+.chapters:first-child {
+    margin-top: 0em;
+}
+
+ul {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: red;
+}
